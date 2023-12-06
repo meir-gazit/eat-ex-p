@@ -1,4 +1,4 @@
 #
-# <div align='center'>eat-ex-p</div>
+# <div align='center'>😋 eat-ex-p 😋</div>
 #
-Another chrome extantion, just for fun.
+<div align='center'>Another chrome extantion, just for fun.</div>
