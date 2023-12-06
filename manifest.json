@@ -1,0 +1,11 @@
+{
+	"name": "eat-ex-p",
+	"version": "1.0.0",
+	"manifest_version": 3,
+	"author": "meir gazit",
+	"description": "aet extention",
+	"action": {
+		"default_popup": "index.html",
+		"default_title": "eat-ex-p"
+	}
+}
